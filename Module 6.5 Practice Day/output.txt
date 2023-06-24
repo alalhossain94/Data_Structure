@@ -1,0 +1,2 @@
+Enter the number of elements: Enter the elements: Linked List: 1 5 
+Size of the linked list: 2
